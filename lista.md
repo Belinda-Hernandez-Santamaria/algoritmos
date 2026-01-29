@@ -5,3 +5,5 @@
 - Cristo Cobos: https://github.com/CristoCobos
 - Sarai Ramos: https://github.com/Sqrt-sarai666
 - Jesús Amador Mendoza: https://github.com/JesusAmador25
+- Orlando Ortega Zempoaltecatlc:  https://github.com/or476651-orlando
+
