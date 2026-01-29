@@ -1,6 +1,7 @@
 **Lista de repositorios**
 
 - Rafael Villarroel: https://github.com/rvf0068
+- Fernando Garcia Gualito: https://github.com/FERNANDO-141414
 - Edgar Osvaldo: https://github.com/TribexGaryXO
 - Díaz García Axel Yael: https://github.com/Axldgar03
 - Peralta Sánchez Alexis Jared: https://github.com/JaredPeSa
